@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /activity/
+permalink: /Chinese_web/
 author_profile: true
 ---
 
