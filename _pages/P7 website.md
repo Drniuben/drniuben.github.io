@@ -19,25 +19,25 @@ author_profile: true
 
 ## 社会学术职务
 
-1.2023.07，英国皇家学会工艺院（RSA）终身会士
-2.2023.10，国际工程技术协会（IETI）会士
-3.2022.01，国际工程技术协会理事会委员
-4.2018.10，教育部高等学校工业工程类专业教学指导委员会委员
-5.2022.10，深圳市医院管理者协会副会长
-6.2021.01，深圳市卫生健康信息协会第二届理事会专业委员会委员
-7.2023.10，广东机械工程分会工业工程分会第三届理事会副理事长
-8.2019.10，广东省机械工程学会物流工程分会第五届理事会理事
-9.2023.06，中国仿真学会第二届智能仿真优化与调度专业委员会委员
-10.2022.08，中国管理科学学会空天系统管理专业委员会委员
-11.2022.11，中国系统工程学会智能制造系统工程专业委员会委员
-12.2022.04，中国科学技术情报学会第九届信息技术专业委员会委员
-13.2022.12，《工程管理科技前沿》杂志特约通讯专家
-14.2023.12，《IEEE Transactions on Artificial Intelligence》副主编
-15.2023.08，《IETI Transactions on Data Analysis and Forecasting》副主编
-16.2024.04，《Mathematics》编委
-17.2023.11，《Operations Research Forum》编委
-18.2022.01，《Entropy(ISSN 1099-4300)》组织Special Issue“Information Theory, Probability and Statistics”客座主编
-19.2016.01，《International Journal of Swarm Intelligence Research》编委
+1. 2023.07，英国皇家学会工艺院（RSA）终身会士
+2. 2023.10，国际工程技术协会（IETI）会士
+3. 2022.01，国际工程技术协会理事会委员
+4. 2018.10，教育部高等学校工业工程类专业教学指导委员会委员
+5. 2022.10，深圳市医院管理者协会副会长
+6. 2021.01，深圳市卫生健康信息协会第二届理事会专业委员会委员
+7. 2023.10，广东机械工程分会工业工程分会第三届理事会副理事长
+8. 2019.10，广东省机械工程学会物流工程分会第五届理事会理事
+9. 2023.06，中国仿真学会第二届智能仿真优化与调度专业委员会委员
+10. 2022.08，中国管理科学学会空天系统管理专业委员会委员
+11. 2022.11，中国系统工程学会智能制造系统工程专业委员会委员
+12. 2022.04，中国科学技术情报学会第九届信息技术专业委员会委员
+13. 2022.12，《工程管理科技前沿》杂志特约通讯专家
+14. 2023.12，《IEEE Transactions on Artificial Intelligence》副主编
+15. 2023.08，《IETI Transactions on Data Analysis and Forecasting》副主编
+16. 2024.04，《Mathematics》编委
+17. 2023.11，《Operations Research Forum》编委
+18. 2022.01，《Entropy(ISSN 1099-4300)》组织Special Issue“Information Theory, Probability and Statistics”客座主编
+19. 2016.01，《International Journal of Swarm Intelligence Research》编委
 
 ## 荣誉及获奖情况
 
