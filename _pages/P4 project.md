@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4743df38-6503-4456-96ba-28720397cf51)---
 layout: archive
 title: "Projects"
 permalink: /project/
