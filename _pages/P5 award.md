@@ -32,17 +32,34 @@ author_profile: true
 * 2012.11, _**“Thousand-Hundred-Ten Young Talents”**_ Award of Guangdong Province
 
 ## Achievement
-* 2022.12, _**"Best Paper Award"**_ in 4th International Conference on Machine Learning for Cyber Security(ML4CS)
-* 2022.11, _**Second Prize**_ of Excellent Academic Papers in 5th Academic Conference on Intelligent Manufacturing Systems Engineering
-* 2021.10, _**"Best Paper Award"**_ in 6th International Conference on Data Mining and Big Data(DMBD)
-* 2021.10, _**a First and a Second Prizes**_ of Excellent Academic Papers in 4th Academic Conference on Intelligent Manufacturing Systems Engineering
-* 2020.11, _**Second Prize**_ of "China Innovation and Enterprise Growth 2020 Academic Papers"
-* 2019.01, _**"Outstanding Reviewer"**_ by IEEE Transactions on Cybernetics
-* 2018.11, _**"Best Paper Award"**_ in 13th International Conference on Bio-inspired Computing(BICTA)
-* 2018.06, _**"Best Paper Award"**_ in 9th International Conference on Swarm Intelligent(ICSI)
-* 2017.06, _**"Special Contribution Award"**_ in 14th International Conference on Service Systems and Service Management(ICSSSM)
-* 2016.11, _**Third Prize**_ of "Scientific Research Outstanding Achievement Awards" of Guizhou Province
-* 2016.06, _**"Special Session Best Paper Award"**_ in 7th International Conference on Swarm Intelligence(ICSI)
+* 2024.11, _**Second Prize**_ of National Intelligent Healthcare Security Contest 2024
+* 2024.11, 2024 China Industrial Engineering Annual Conference and the 13th Industrial Engineering Enterprise Application and Practice Summit Forum
+* 2024.06, _**a First Prize**_ and _**a Second Prize**_ of the 28th International Conference on Management Science and Engineering
+* 2024.04, _**Second Prize**_ of the 5th Outstanding Achievements Award in Philosophy and Social Sciences of Zhuhai City
+* 2023.12, _**“Excellent Innovation and Entrepreneurship Mentor”**_ of the 9th China International College Students’ “Internet Plus” Innovation and Entrepreneurship Competition / China International College Students’ Innovation Competition 2023
+* 2023.08, 2022.11, 2021.10, _**a First Prize**_ and _**four Second Prizes**_ for Outstanding Paper Award of Academic Conference on Intelligent Manufacturing Systems Engineering
+* 2023.06, _**Third Prize**_ of Science and Technology Advancement of Guizhou Province
+* 2022.12, _**Best Paper Award**_ of the 4th International Conference on Machine Learning for Cyber Security, ML4CS 2022
+* 2022.07, _**Outstanding Instructor**_ of the 2020 Guangdong Provincial College Student Innovation and Entrepreneurship Training Program of Shenzhen University
+* 2022.07, _**Outstanding Instructor**_ in the Guangdong Division of the 12th National University Student E-commerce “Innovation, Creativity and Entrepreneurship” Competition
+* 2022.01, _**Main Lecturer**_ of the Compulsory MOOC of Shenzhen University
+* 2021.12, _**Recommended Paper**_ at the 23rd China Management Science Annual Conference
+* 2021.10, _**Best Paper Award**_ of the 6th International Conference on Data Mining and Big Data, DMBD 2021
+* 2021.06, _**First Prize**_ of Shenzhen University Teaching Achievement Award (Higher Education Category)
+* 2021.04, Shenzhen University 2019-2020 Academic Year Teaching Individual Award - _**Outstanding Undergraduate Teacher Award**_
+* 2020.11, _**Second Prize**_ of China Innovation and Enterprise Growth (CI&G) 2020 Annual Academic Conference
+* 2020.09, _**Outstanding Contribution Award**_ for Teaching Work of Shenzhen University in the 2019-2020 Academic Year
+* 2020.01, 2019 _**Emerging Graduate Tutor**_ of Shenzhen University
+* 2019.01, 2016.12, 2015.03, _**Outstanding Master’s Supervisor**_ of Shenzhen University
+* 2018.11, _**Best Paper Award**_ of the 13th International Conference on Bio-Inspired Computing: Theories and Applications, BIC-TA 2018
+* 2018.10, 2016.06, 2013.06, _**Best Paper Award**_ of the International Conference on Swarm Intelligence
+* 2018 _**Outstanding Reviewer**_ by IEEE Transactions on Cybernetics
+* 2018.07, _**Best Guidance Award**_ in the Guangdong Division of the 8th National Univeristy Student E-commerce “Innovation, Creativity and Entrepreneurship” Competition
+* 2016.11, _**Third Prize**_ for Outstanding Achievements in Scientific Research (Science and Technology) in Natural Sciences in Guizhou Province’s Higher Education Institutions
+* 2014.12, _**Third Prize**_ for Excellent Academic Papers of the 5th Guizhou Provincial Natural Science Conference
+* 2013.12, 2012.12, 2011.12, 2010.12, _**two Second Prizes**_ and _**three Third Prizes**_ for Academic Innovation Award of Shenzhen University
+* 2013.10, _**Outstanding Paper Award**_ of the 15th China Management Science Annual Conference
+* 2009.09, _**Best Paper Award**_ of the 5th International Conference on Intelligent Computing, ICIC 2009
 
 ## Student Competition
 * 2023.12, Instructor of _**a Gold Award**_ of the “Internet Plus” National Competition (Streamer Feather)
