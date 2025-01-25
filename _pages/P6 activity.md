@@ -12,7 +12,7 @@ redirect_from:
 ## Keynote Speeches in International Conferences and Academic Organizations
 
 * 2022.12, Invited Speech for 30th National Computer Information Management Conference (CIMC2022).
-* 2022.11, Invited Speech for Shenyang Ligong University.
+* 2022.12, Invited Speech for School of Automation and Electrical Engineering, Shenyang Ligong University.
 * 2022.11, Invited Speech for 5th Intelligent Manufacturing System Engineering Conference.
 * 2022.11, Invited Speech for School of Advanced Interdisciplinary Studies, Hunan University Of Technology and Business.
 * 2022.10, Invited Speech for School of Management, Hangzhou Dianzi University.
@@ -20,14 +20,14 @@ redirect_from:
 * 2022.06, Invited Speech for 1st Youth Interdisciplinary Forum on "Digital Transformation and Smart Management".
 * 2022.04, Invited Speech for 2022 Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2022).
 * 2021.12, Invited Speech for 7th Shenzhen Management Innovation Dialogue Forum (SMIDF2021).
-* 2021.11, Invited Speech for School of Mechanical Engineering, Anhui Polytechnic University.
-* 2021.11, Invited Speech for School of Economics and Management, Nanjing University of Science and Technology.
+* 2021.11, Invited Speech for School of Mechanical and Automotive Engineering, Anhui Polytechnic University.
+* 2021.11, Invited Speech for School of Economics & Management, Nanjing University of Science & Technology.
 * 2021.10, Invited Speech for 3rd Data Analysis and Knowledge Discovery Conference (DAKD2021).
 * 2020.12, Invited Speech for 2020 "Smart Governance of Special Economic Zones" Academic Salon.
 * 2020.11, Invited Speech for 2020 Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2020).
 * 2019.07, Invited Speech for 10th International Conference on Swarm Intelligence (ICSI2019).
 * 2019.07, Invited Speech for 4th International Conference on Data Mining and Big Data (DMBD 2019).
-* 2008.12, Invited Speech for 2nd International Conference on Computer Science and Artificial Intelligence(CSAI 2018).
+* 2018.12, Invited Speech for 2nd International Conference on Computer Science and Artificial Intelligence(CSAI 2018).
 
 ## Session Chairs in International Conferences
 
