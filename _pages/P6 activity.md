@@ -11,8 +11,8 @@ redirect_from:
 
 ## Keynote Speeches in International Conferences and Academic Organizations
 
-* 2024.07, Invited Speech for 4th International Symposium on Computer Technology and Information Science (ISCTIS 2024).
 * 2024.08, Invited Speech for Roundtable Discussion served at First International Seminar on Prevention and Control of Major Infectious Diseases.
+* 2024.07, Invited Speech for 4th International Symposium on Computer Technology and Information Science (ISCTIS 2024).
 * 2023.12, Invited Speech for 4th Data Analysis and Knowledge Discovery Conference (DAKD2023).
 * 2023.11, Invited Speech for 5th Shenzhen Evidence-based Psychotherapy & Employee Assistance Program (EAP) of Medical Personnel Forum.
 * 2023.11, Invited Speech for 6th Jinling Forum on Health Management and Policy.
