@@ -11,18 +11,36 @@ redirect_from:
 
 ## Keynote Speeches in International Conferences and Academic Organizations
 
+* 2024.07, Invited Speech for 4th International Symposium on Computer Technology and Information Science (ISCTIS 2024).
+* 2024.08, Invited Speech for Roundtable Discussion served at First International Seminar on Prevention and Control of Major Infectious Diseases.
+* 2023.12, Invited Speech for 4th Data Analysis and Knowledge Discovery Conference (DAKD2023).
+* 2023.11, Invited Speech for 5th Shenzhen Evidence-based Psychotherapy & Employee Assistance Program (EAP) of Medical Personnel Forum.
+* 2023.11, Invited Speech for 6th Jinling Forum on Health Management and Policy.
+* 2023.11, Invited Speech for 8th International Conference on Intelligent Information Processing (ICIIP 2023).
+* 2023.09, Invited Speech for 31st National Computer Information Management Conference (CIMC2023).
+* 2023.09, Invited Speech for 5th International Conference on General Education and Contemporary Development (ICGECD 2023).
+* 2023.08, Invited Speech for Conference on New Trends in Health Talent Team Building and Talent Management.
+* 2023.07, Invited Speech for 9th Forum on the Development of Smart Elderly Care and Smart Medical Care.
+* 2023.06, Invited Speech for Shenzhen Nanshan Experiment Educational Group Nantou Primary School.
+* 2023.05, Invited Speech for 1st GBA Youth Forum.
+* 2022.12, Invited Speech for 4th Guangdong - Hong Kong - Macao Greater Bay Area Evidence-based Psychotherapy & Employee Assistance Program (EAP) of Medical Personnel Forum.
+* 2022.12, Invited Speech for School of Business, Guilin University of Electronic Technology on 6th “Huajiang River · Management Science and Engineering Forum”.
 * 2022.12, Invited Speech for 30th National Computer Information Management Conference (CIMC2022).
 * 2022.12, Invited Speech for School of Automation and Electrical Engineering, Shenyang Ligong University.
 * 2022.11, Invited Speech for 5th Intelligent Manufacturing System Engineering Conference.
 * 2022.11, Invited Speech for School of Advanced Interdisciplinary Studies, Hunan University Of Technology and Business.
 * 2022.10, Invited Speech for School of Management, Hangzhou Dianzi University.
+* 2022.09, Invited Speech for 7th International Conference on Intelligent Information Processing (ICIIP 2022).
+* 2022.09, Invited Speech for 3rd International Symposium on Big Data and Artificial Intelligence (ISBDAI 2022).
 * 2022.07, Invited Speech for School of Economics and Management, Anhui Polytechnic University.
+* 2022.06, Invited Speech for Shenzhen Health and Wellness Young Scholars - Medical Personnel Academic Salon: Shenzhen Health Talent Regional Partnership Development and Research and Management Capacity Enhancement Program.
 * 2022.06, Invited Speech for 1st Youth Interdisciplinary Forum on "Digital Transformation and Smart Management".
 * 2022.04, Invited Speech for 2022 Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2022).
 * 2021.12, Invited Speech for 7th Shenzhen Management Innovation Dialogue Forum (SMIDF2021).
 * 2021.11, Invited Speech for School of Mechanical and Automotive Engineering, Anhui Polytechnic University.
 * 2021.11, Invited Speech for School of Economics & Management, Nanjing University of Science & Technology.
 * 2021.10, Invited Speech for 3rd Data Analysis and Knowledge Discovery Conference (DAKD2021).
+* 2021.09, Invited Speech for“Summit Dialogue: Digitalization Trends in the Health Industry and Business Challenges” Session served at The 14th Xipu Conference - China Health Ecology Organization (CPEO).
 * 2020.12, Invited Speech for 2020 "Smart Governance of Special Economic Zones" Academic Salon.
 * 2020.11, Invited Speech for 2020 Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2020).
 * 2019.07, Invited Speech for 10th International Conference on Swarm Intelligence (ICSI2019).
