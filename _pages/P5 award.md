@@ -8,17 +8,28 @@ author_profile: true
 {% include base_path %}
 
 ## Honor List
+* 2023.10, _**The World’s Top 2% Scientists Rankings**_ of Stanford University for Lifetime
+* 2024.09, 2023.10, 2022.10, 2021.11, 2020.10, _**The World’s Top 2% Scientists Rankings**_ of Stanford University
+* 2023.09, International Alliance of Applied Universities for General Education _**“Outstanding Contribution Award in General Education”**_
+* 2023.09, _**“National 100 Excellent Management Cases (Micro Cases)”**_
 * 2022.11, _**Innovation and Entrepreneurship Mentor**_ of Shenzhen University
-* 2022.10, 2021.11, 2020.10, _**The World’s Top 2% Scientists Rankings**_ of Stanford University
-* 2021.12, The Chief Instructor of _**UNESCO IRCAI2021 Global Top 100 Project**_ _(the only one in China)_
+* 2021.04-2026.03, _**“High-level Professional Talents” of Shenzhen**_
 * 2021.09, _**"Southern Guangdong Excellent Teachers"**_ Award of Guangdong Province
-* 2020.12, _**"Leaders in Innovation Fellowships"**_ of Chinese Academy of Engineering and Royal Academy of Engineering(UK).
+* 2021.02-2021.11, _**"Leaders in Innovation Fellowships"**_ of Chinese Academy of Engineering and Royal Academy of Engineering(UK).
+* 2021.01, The Chief Instructor of _**UNESCO IRCAI2021 Global Top 100 Project**_ _(the only one in China)_
+* 2020.06-2023.05, _**Distinguished Scholars of Shenzhen University**_
+* 2019.12, _**“Erudite Scholar”**_
 * 2018.10, Member of the Teaching Steering Committee for Higher Education in Industrial Engineering Discipline of _**Ministry of Education of China**_
-* 2016.08, _**Pearl River Scholars Professor**_
-* 2016.03, _**"Thousand-Hundred-Ten Young Talents"**_ Award of Guangdong Province
+* 2016.08-2019.08, _**Pearl River Scholars Professor**_
+* 2016.01, _**"Hundred-Thousand-Ten Thousand Young Talents"**_ Award of Guangdong Province
+* 2016.01, _**the Outstanding Young Teachers Training Program**_
 * 2016.01, _**"Excellent Young Teachers of Guangdong Universities"**_ Award of Guangdong Province
 * 2015.09, _**"Young Teacher Model"**_ Award of Shenzhen
-* 2012.08, _**Hong Kong Scholars**_ _(one of the 64 nationwide, 2nd batch)_
+* 2014.02-2019.01, Shenzhen Overseas High-level _**“Peacock Program”**_ (Category C)
+* 2013.01-2017.12, Shenzhen _**High-level Professional Talents**_ (Reserve Talents)
+* 2013.03, _**Hong Kong Scholars**_ _(one of the 64 nationwide, 2nd batch)_
+* 2012.12.29, _**“Liyuan Outstanding Young Scholars”**_ of Shenzhen University
+* 2012.11, _**“Thousand-Hundred-Ten Young Talents”**_ Award of Guangdong Province
 
 ## Achievement
 * 2022.12, _**"Best Paper Award"**_ in 4th International Conference on Machine Learning for Cyber Security(ML4CS)
