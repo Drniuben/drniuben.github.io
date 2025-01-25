@@ -31,8 +31,21 @@ redirect_from:
 
 ## Session Chairs in International Conferences
 
+* 2025.04, IEEE 12th International Conference on Industrial Engineering and Applications (ICIEA 2025), Seoul, Korea (Publicity Chair).
+* 2024.12, 2024 7th International Conference on E-Business, Information Management and Computer Science (EBIMCS 2024), Hong Kong, China (General Chair).
+* 2024.06-2024.07, 2024 POMS International Conference, Hefei, China, (Session Chair, Best Paper Competition Area Editor.
+* 2024.06, 2024 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024), Zhuhai, China (Conference Technical Program Committees).
+* 2024.06, 2024 28th International Conference on Management Science and Engineering (ICMSE 2024), Shenzhen, China (Sub-Forum Convener).
+* 2023.12, 2023 6th International Conference on E-Business, Information Management and Computer Science (EBIMCS 2023), Hong Kong, China (General Chair).
+* 2023.12, 2023 12th Intelligent Management and Technological Innovation Conference (IMTIC 2023), Wuhan, China (General Chair).
+* 2023.11, 2023 2nd International Conference on Computational Social Sciences and Sustainability (CSSS 2023), Bucharest, Romania (Executive Chair).
+* 2023.08, Special Session on Intelligent Optimization Algorithms (ICIC 2023), Zhengzhou, China (Session Chair).
+* 2023.08, 2023 18th International Conference on Service Systems and Service Management (ICSSSM 2023), Nanjing, China (Session Chair).
+* 2023.07, The 14th International Conference on Swarm Intelligence (ICSI 2023), Shenzhen, China (Session Chair).
 * 2022.12, Workshop on Machine Learning and Intelligent Optimization in Management and Industrial Applications, 4th International Conference on Machine Learning for Cyber Security (ML4CS 2022), Guangzhou, China (Workshop Chair).
 * 2022.07, Special Session on Swarm Intelligence and Machine Learning in Management Science and Industrial Applications (ICSI 2022), Xi'an, China (Session Chair).
+* 2022.06, 2022 1st International Conference on Computational Social Sciences and Sustainability (CSSS 2022), Hong Kong, China (Executive Chair).
+* 2022.04, IEEE 9th International Conference on Industrial Engineering and Applications (ICIEA 2022), Sanya, China (Regional Chair in China).
 * 2021.10, Special Session on Intelligent Data Mining: Techniques and Applications (DMBD 2021), Guangzhou, China (Session Chair).
 * 2021.07, Special Session on Intelligent Computing and Swarm Intelligence in Management Science and Industrial Applications (ICSI 2021), Qingdao, China (Session Chair).
 * 2020.11, Special Session on Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE 2020), Zhuhai, China (Session Chair).
@@ -42,12 +55,14 @@ redirect_from:
 * 2019.08, Special Session on Advances in Swarm Intelligence Algorithms and Applications (ICIC 2019), Nanchang, China (Session Chair).
 * 2019.07, Special Session on Swarm Intelligence Optimization: Theories, Algorithms and Applications (ICSI 2019), Chiang Mai, Thailand (Session Chair).
 * 2019.06, Special Session on Hybrid Algorithms in Scheduling and Network Design (CEC 2019), Wellington, New Zealand (Session Chair).
+* 2018.12, 2018 2nd International Conference on Computer Science and Artificial Intelligence (CSAI 2018), Shenzhen, China (Technical Program Chair).
 * 2018.12, Special Session on Advances in Swarm Intelligence Algorithms and Real-World Applications (BIC-TA 2018), Beijing, China (Session Chair).
 * 2018.06, Special Session on Swarm Intelligence Algorithms, Simulation, Theories and Applications (ICSI 2018), Shanghai, China (Session Chair).
 * 2017.12, Special Session on 2017 International Conference on Information Technology (ICIT 2017), Singapore (Session Chair).
 * 2017.11, Special Session on Swarm Intelligence Algorithms, Simulation, Theories and Applications (SEAL 2017), Shenzhen, China (Session Chair, PC Member).
 * 2017.08, International Conference on Intelligent Computing (ICIC 2017), Liverpool, UK (PC Member).
 * 2017.07, Special Session on Nature-inspired Optimization: Theory and Application (ICSI 2017), Fukuoka, Japan (Session Chair).
+* 2017.06, 2017 14th International Conference on Service Systems and Service Management (ICSSSM 2017), Dalian, China (Session Chair).
 * 2016.08, Special Session on Advances in Swarm Intelligence: Algorithms and Applications (ICIC 2016), Lanzhou, China (Session Chair).
 * 2016.06, Special Session on Swarm intelligence in Management Decsion Making and Operations Research (ICSI 2016), Bali, Indonesia (Session Chair).
 * 2015.08, Special Session on Swarm Intelligence with Discrete Dynamics: Algorithms and Applications (ICIC 2015), Fuzhou, China (Session Chair, PC Member).
