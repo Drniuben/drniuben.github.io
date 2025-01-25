@@ -31,32 +31,32 @@ redirect_from:
 
 ## Session Chairs in International Conferences
 
-* 2022.12, Workshop on Machine Learning and Intelligent Optimization in Management and Industrial Applications, 4th International Conference on Machine Learning for Cyber Security (ML4CS), Guangzhou, China (Workshop Chair).
-* 2022.07, Special Session on Swarm Intelligence and Machine Learning in Management Science and Industrial Applications (ICSI2022), Xi'an, China (Session Chair).
-* 2021.10, Special Session on Intelligent Data Mining: Techniques and Applications (DMBD2021), Guangzhou, China (Session Chair).
-* 2021.07, Special Session on Intelligent Computing and Swarm Intelligence in Management Science and Industrial Applications (ICSI2021), Qingdao, China (Session Chair).
-* 2020.11, Special Session on Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2020), Zhuhai, China (Session Chair).
-* 2020.10, Special Session on Recent Advances in Swarm Intelligence: Computing and Applications (ICIC2020), Bari, Italy (Session Chair).
-* 2020.07, Special Session on Swarm Intelligence Optimization: Theories, Algorithms and Applications (ICSI2020), Belgrade, Serbia (Session Chair).
+* 2022.12, Workshop on Machine Learning and Intelligent Optimization in Management and Industrial Applications, 4th International Conference on Machine Learning for Cyber Security (ML4CS 2022), Guangzhou, China (Workshop Chair).
+* 2022.07, Special Session on Swarm Intelligence and Machine Learning in Management Science and Industrial Applications (ICSI 2022), Xi'an, China (Session Chair).
+* 2021.10, Special Session on Intelligent Data Mining: Techniques and Applications (DMBD 2021), Guangzhou, China (Session Chair).
+* 2021.07, Special Session on Intelligent Computing and Swarm Intelligence in Management Science and Industrial Applications (ICSI 2021), Qingdao, China (Session Chair).
+* 2020.11, Special Session on Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE 2020), Zhuhai, China (Session Chair).
+* 2020.10, Special Session on Recent Advances in Swarm Intelligence: Computing and Applications (ICIC 2020), Bari, Italy (Session Chair).
+* 2020.07, Special Session on Swarm Intelligence Optimization: Theories, Algorithms and Applications (ICSI 2020), Belgrade, Serbia (Session Chair).
 * 2019.12, IEEE Symposium on Computational Intelligence in Scheduling and Network Design (IEEE CISND), Xiamen, China (Session Chair).
-* 2019.08, Special Session on Advances in Swarm Intelligence Algorithms and Applications (ICIC2019), Nanchang, China (Session Chair).
-* 2019.07, Special Session on Swarm Intelligence Optimization: Theories, Algorithms and Applications (ICSI2019), Chiang Mai, Thailand (Session Chair).
-* 2019.06, Special Session on Hybrid Algorithms in Scheduling and Network Design (CEC2019), Wellington, New Zealand (Session Chair).
-* 2018.11, Special Session on Advances in Swarm Intelligence Algorithms and Real-World Applications (BICTA 2018), Beijing, China (Session Chair).
-* 2018.06, Special Session on Swarm Intelligence Algorithms, Simulation, Theories and Applications (ICSI2018), Shanghai, China (Session Chair).
-* 2017.12, Special Session on 2017 International Conference on Information Technology, Singapore (Session Chair).
+* 2019.08, Special Session on Advances in Swarm Intelligence Algorithms and Applications (ICIC 2019), Nanchang, China (Session Chair).
+* 2019.07, Special Session on Swarm Intelligence Optimization: Theories, Algorithms and Applications (ICSI 2019), Chiang Mai, Thailand (Session Chair).
+* 2019.06, Special Session on Hybrid Algorithms in Scheduling and Network Design (CEC 2019), Wellington, New Zealand (Session Chair).
+* 2018.12, Special Session on Advances in Swarm Intelligence Algorithms and Real-World Applications (BIC-TA 2018), Beijing, China (Session Chair).
+* 2018.06, Special Session on Swarm Intelligence Algorithms, Simulation, Theories and Applications (ICSI 2018), Shanghai, China (Session Chair).
+* 2017.12, Special Session on 2017 International Conference on Information Technology (ICIT 2017), Singapore (Session Chair).
 * 2017.11, Special Session on Swarm Intelligence Algorithms, Simulation, Theories and Applications (SEAL 2017), Shenzhen, China (Session Chair, PC Member).
-* 2017.08, International Conference on Intelligent Computing, Liverpool, UK (PC Member).
-* 2017.07, Special Session on Nature-inspired Optimization: Theory and Application (ICSI2017), Fukuoka, Japan (Session Chair).
-* 2016.08, Special Session on Advances in Swarm Intelligence: Algorithms and Applications (ICIC2016), Lanzhou, China (Session Chair).
+* 2017.08, International Conference on Intelligent Computing (ICIC 2017), Liverpool, UK (PC Member).
+* 2017.07, Special Session on Nature-inspired Optimization: Theory and Application (ICSI 2017), Fukuoka, Japan (Session Chair).
+* 2016.08, Special Session on Advances in Swarm Intelligence: Algorithms and Applications (ICIC 2016), Lanzhou, China (Session Chair).
 * 2016.06, Special Session on Swarm intelligence in Management Decsion Making and Operations Research (ICSI 2016), Bali, Indonesia (Session Chair).
-* 2015.08, Special Session on Swarm Intelligence with Discrete Dynamics: Algorithms and Applications (ICIC2015), Fuzhou, China (Session Chair, PC Member).
-* 2014.10, International Conference on Swarm Intelligence (ICSI2014), Hefei, China (Session Chair).
-* 2014.08, Special Session on Advances in Bio-inspired Computing: Theories and Applications (ICIC2014), Taiyuan, China (Session Chair, PC Member).
-* 2013.09, The First BRICS Congress on Computational Intelligence, Recife, Brazil (PC Member).
-* 2013.07, Special Session on Bio-inspired Computing and Applications (ICIC2013), Nanning, China (Session Chair, PC Member).
+* 2015.08, Special Session on Swarm Intelligence with Discrete Dynamics: Algorithms and Applications (ICIC 2015), Fuzhou, China (Session Chair, PC Member).
+* 2014.10, International Conference on Swarm Intelligence (ICSI 2014), Hefei, China (Session Chair).
+* 2014.08, Special Session on Advances in Bio-inspired Computing: Theories and Applications (ICIC 2014), Taiyuan, China (Session Chair, PC Member).
+* 2013.09, IEEE 2013 BRICS Congress on Computational Intelligence (BRICS-CCI 2013), Ipojuca, Brazil (PC Member).
+* 2013.07, Special Session on Bio-inspired Computing and Applications (ICIC 2013), Nanning, China (Session Chair, PC Member).
 * 2013.06, International Conference on Swarm Intelligence (ICSI 2013), Harbin, China (Session Chair).
-* 2012.07, Special Session on Bio-inspired Computing and Applications (ICIC2012), Huangshan, China (Session Chair, PC Member).
+* 2012.07, Special Session on Bio-inspired Computing and Applications (ICIC 2012), Huangshan, China (Session Chair, PC Member).
 * 2012.06, International Conference on Swarm Intelligence (ICSI 2012), Shenzhen, China (Session Chair).
 * 2011.08, Special Session on Bio-inspired Computing and Applications (ICIC 2011), Zhengzhou, China (Session Chair, PC Member).
 * 2010.08, Special Session on Bio-inspired Computing and Applications (ICIC 2010), Changsha, China (Session Chair, PC Member).
