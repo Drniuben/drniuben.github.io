@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 ## Honor List
-* 2023.10, _**The World’s Top 2% Scientists Rankings**_ of Stanford University for Lifetime
-* 2024.09, 2023.10, 2022.10, 2021.11, 2020.10, _**The World’s Top 2% Scientists Rankings**_ of Stanford University
 * 2023.09, International Alliance of Applied Universities for General Education _**“Outstanding Contribution Award in General Education”**_
 * 2023.09, _**“National 100 Excellent Management Cases (Micro Cases)”**_
 * 2022.11, _**Innovation and Entrepreneurship Mentor**_ of Shenzhen University
