@@ -28,8 +28,8 @@ redirect_from:
 ## Fellows and Visiting Scholars
 * _**Peking University (Beijing, China)**_
   * 2024.06-Present: Consulting Expert, International Research Center for Medical Administration
-  * 2024.03.12-Present:: Member, Academic Committee of AIDS Prevention Research Center of Public Health
-  * 2024.01.25-Present:: Researcher, International Centre for Pharmacy Administration
+  * 2024.03.12-Present: Member, Academic Committee of AIDS Prevention Research Center of Public Health
+  * 2024.01.25-Present: Researcher, International Centre for Pharmacy Administration
 * _**University of Giustino Fortuna (Italy)**_
   * 2022.05-2023.05: Joint Researcher
 * _**Lingnan University (Hong Kong, China)**_
